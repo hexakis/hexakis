@@ -5,9 +5,3 @@
 * 📚 Chemical Engineering
 * 💻 Void Linux
 * 🧰 Rust & Golang
-
----
-
-* 🔒 Interested in Privacy
-* ⚠️ Disturbing Code Ahead
-* 🇨🇳 I Hate Communists
